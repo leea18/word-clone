@@ -263,3 +263,7 @@ h1 {
   border-color: var(--color-warning);
   color: white;
 }
+
+.banner button {
+  padding-top: 8px;
+}
